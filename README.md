@@ -1,8 +1,8 @@
-#Super simple blog API
+# Super simple blog API
 
 This is a super simple blog api that utilizes Spring Boot with basic auth and MongoDB.
 
-##Run
+## Run
 Default password is user:password .
 
 ```
